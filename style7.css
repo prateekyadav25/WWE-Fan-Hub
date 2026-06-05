@@ -1,0 +1,19 @@
+/* Custom smooth scroll and overrides */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Adjusting padding smoothly for the fixed top navbar */
+body {
+    padding-top: 56px; 
+}
+
+/* Custom Letter spacing for a premium brand look */
+.tracking-widest {
+    letter-spacing: 0.15em;
+}
+
+/* Smooth transitions for links and buttons */
+.nav-link, .btn {
+    transition: all 0.25s ease-in-out;
+}
