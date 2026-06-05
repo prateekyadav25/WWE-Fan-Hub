@@ -9,16 +9,7 @@ A clean, modern boilerplate designed to master the fundamentals of **Bootstrap 5
 ### Desktop View
 *A sleek two-column layout with a fixed dark navbar, hero banner, content card, and sticky sidebar tracking widgets.*
 
-![Desktop View Dashboard Placeholder](https://via.placeholder.com/800x450.png?text=Desktop+Preview+-+WWE+Fan+Hub+Layout)
-
-### Mobile Responsive View
-*Fluid collapsing mechanics shifting components into a clean, single-column vertical stack below 992px.*
-
-<p align="left">
-  <img src="https://via.placeholder.com/280x520.png?text=Mobile+Navbar+Collapsed" alt="Mobile View Collapsed" width="30%"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/280x520.png?text=Mobile+Menu+Expanded" alt="Mobile View Expanded" width="30%"/>
-</p>
+![Desktop View Dashboard Placeholder](Screenshot.png)
 
 ---
 
